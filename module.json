@@ -1,0 +1,8 @@
+{
+    "name": "PayPalych",
+    "version": "1.0.0",
+    "description": "PayPalych / CardLink payment gateway integration",
+    "authors": ["Flames"],
+    "providers": ["Flute\\Modules\\PayPalych\\Providers\\PayPalychProvider"],
+    "dependencies": {}
+}
